@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\InventoryListEditor.cs" />
      <Compile Include="Assets\Scripts\InventoryManager.cs" />
      <Compile Include="Assets\Scripts\PuzzleItem.cs" />
+     <Compile Include="Assets\Scripts\RayCasting.cs" />
      <Compile Include="Assets\Scripts\TriggerBoxScript.cs" />
      <Compile Include="Assets\Scripts\Walk.cs" />
      <Compile Include="Assets\Scripts\forceCrouch.cs" />
